@@ -1,1 +1,1 @@
-Skin Cancer Detection
+JOVIAN CAREER WEBSITE
